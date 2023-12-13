@@ -35,5 +35,3 @@ The project generates the following output:
 - **01_Project_Proposal**: Outlines the initial project proposal.
   
 - **02_Project_Presentation**: Contains the project presentation.
-  
-- **03_Project_Report**: Presents the comprehensive project report documenting methodologies, findings, and conclusions.
